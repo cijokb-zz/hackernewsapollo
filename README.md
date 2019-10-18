@@ -1,2 +1,0 @@
-# hackernewsapollo
-Created with CodeSandbox
